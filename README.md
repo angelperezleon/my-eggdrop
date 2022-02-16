@@ -3,7 +3,8 @@ Anything todo with irc eggdrop
 
 # Scripts
 **launch-manifest.tcl**
-This script requires: packages http tls & 
+
+This script requires: packages http & tls
 No API required from https://fdo.rocketlaunch.live/api but for further features an API must be purchased from this site
 The script will respond within the channel with a PRIVATE NOTICE to you only
 
