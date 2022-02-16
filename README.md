@@ -1,5 +1,5 @@
 # my-eggdrop
-Anything todo with irc eggdrop
+Anything todo with an irc eggdrop
 
 # Scripts
 **launch-manifest.tcl**
